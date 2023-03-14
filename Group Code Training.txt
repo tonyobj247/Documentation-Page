@@ -1,0 +1,416 @@
+Code Training for My WhatsApp Group
+
+Welcome everyone. 
+
+Description
+You’re here because you’re ready to start building professional, career-boosting websites or maybe you’re coding already and want to take things to the next level? No matter where you are in your coding journey, this course is packed full of high-quality tutorials and hands-on practical projects you need to develop as a coder. As you join today, the plan is to take you from beginner to expert in just six weeks (or take it at your own pace—whatever suits you!), after which we would share out winning CV format for you to use, then we shall try to get you better paying tech roles (for anyone who may be interested).
+
+Requirements
+No pre-knowledge is required - enthusiasm is all you need!
+A PC or Mac is required
+No software is required in advance of the course (all software used in the course is free)
+
+
+
+Areas to be covered
+Front End
+Back End
+Scripting
+Database
+Libraries and Frameworks
+
+Front End Languages to be covered are
+HTML
+CSS
+JavaScript
+
+Scripting Languages to be covered are
+PHP
+Python
+
+Backend Languages to be covered are
+MySQL
+MongoDB
+
+Libraries and Frameworks
+React
+Redux
+Vue
+Angular
+Node.js
+
+Duration 6 Weeks
+------------------------------------------
+HTML
+
+A quick pick at HTML5 section
+The structure of a web page
+Your first web page
+Creating A Full Webpage
+Creating A Full Webpage - Files
+Header Tags
+Header Tags - Files
+Paragraph Tags
+Paragraph Tags - Files
+Formatting Text
+Formatting Text - Files
+Unordered Lists
+Unordered Lists - Files
+Ordered Lists
+Ordered Lists - Files
+Images
+Images - Files
+Forms
+Forms - Files
+Tables
+Tables - Files
+Links
+Links - Files
+HTML Entities
+HTML Entities - Files
+Audio & Video
+Audio & Video
+Putting It All Together
+Putting It All Together - Files
+Setting Up Your Free Hosting
+Setting Up FTP
+Further Reading - HTML
+Reference 1 - HTML Tag Reference
+HTML Quiz
+
+
+HTML which stands for Hypertext Markup Language, is the foundation of the web. It is a markup language that is used to create the structure and layout (design) of web pages. HTML being the most fundamental building block of the web, provides the structure and content of websites and is used in conjunction with other languages such as CSS and JavaScript to create dynamic, interactive websites. HTML is the first step in creating a website, and it's important to understand how it works.
+
+HTML uses a set of tags, also known as elements, to create the structure of a web page. These tags are enclosed in angle brackets and are used to define the different sections of a web page, such as headings, paragraphs, images, links, and more.
+
+One of the most important tags in HTML is the <html> tag, which defines the start and end of an HTML document. Within the <html> tag, there are two other important tags: the <head> tag and the <body> tag. The <head> tag contains information about the web page, such as the title, which is displayed in the browser's title bar, and meta tags, which provide information about the web page to search engines. The <body> tag contains the content of the web page, such as text, images, and links.
+
+HTML also includes a wide range of other tags that can be used to create different types of content, such as headings, paragraphs, lists, images, tables, and forms. These tags allow web developers to create structured, well-formatted pages that are easy to read and navigate.
+
+HTML5, the latest version of HTML, includes new tags and attributes that make it easier to create more interactive and dynamic websites. For example, the <video> and <audio> tags can be used to embed video and audio content directly on a web page, without the need for a separate plugin. Additionally, the <canvas> tag allows developers to create interactive graphics and animations using JavaScript.
+
+Another important aspect of HTML is semantics, which is the practice of using HTML tags in a way that describes the meaning of the content they contain. This is important for accessibility and search engine optimization (SEO). For example, using the <h1> tag for a main heading and <p> tag for paragraphs is semantically correct, it helps users to understand the structure and hierarchy of the content, and it also helps search engines to understand the structure of the page.
+
+Introduction
+
+
+Getting Started
+To start programming with HTML, you need a text editor and a web browser. You can use any text editor, but some popular choices include Notepad++, Sublime Text, and Visual Studio Code. For this training manual, we will be using Visual Studio Code. You can download Visual Studio Code from the official website.
+
+Creating a New HTML File
+To create a new HTML file, follow these steps:
+
+Open Visual Studio Code.
+Click on "File" in the top menu.
+Click on "New File".
+Save the file with a .html extension (e.g. index.html).
+Basic Structure of an HTML Document
+An HTML document has a basic structure that consists of the following elements:
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Title of the document</title>
+  </head>
+  <body>
+    Content of the document......
+  </body>
+</html>
+<!DOCTYPE html> - This is the document type declaration, and it tells the browser that the document is an HTML5 document.
+<html> - This is the root element of an HTML document.
+<head> - This element contains information about the document, such as the title, meta tags, and links to stylesheets.
+<title> - This element specifies the title of the document, which appears in the browser tab.
+<body> - This element contains the visible content of the document, such as text, images, and other HTML elements.
+Creating a Title for Your Web Page
+To create a title for your web page, follow these steps:
+
+Open your HTML document in Visual Studio Code.
+Locate the <head> element.
+Inside the <head> element, add the <title> element.
+Type the title of your web page between the opening and closing <title> tags.
+For example:
+
+<head>
+  <title>My First Web Page</title>
+</head>
+Adding Content to Your Web Page
+To add content to your web page, follow these steps:
+
+Open your HTML document in Visual Studio Code.
+Locate the <body> element.
+Inside the <body> element, add the content you want to display on your web page.
+For example:
+
+<body>
+  <h1>Welcome to My First Web Page</h1>
+  <p>This is my first web page. I'm so excited to learn HTML!</p>
+</body>
+In this example, we added a heading (<h1>) and a paragraph (<p>) to the body of our web page.
+
+Adding Images to Your Web Page
+To add images to your web page, follow these steps:
+
+Save the image you want to use in the same directory as your HTML document.
+Open your HTML document in Visual Studio Code.
+Locate the <body> element.
+Inside the <body> element, add the <img> element.
+Set the "src" attribute of the <img> element to the file name of your image.
+For example:
+
+<body>
+  <h1>Welcome to My First Web Page</h1>
+  <p>This is my first web page. I'm so excited to learn HTML!</p>
+  <img src="myimage.jpg">
+</body>
+
+In this example, we added an image to our web page using the <img> element and the "src" attribute.
+
+Conclusion
+HTML is an essential skill for anyone interested in web development
+
+In conclusion, HTML is an essential language for creating web pages and it's the building block of the web, it allows developers to create structured, well-formatted pages that are easy to read and navigate. With the introduction of HTML5, the latest version of HTML, it's easier than ever to create more interactive and dynamic websites. It's important to use HTML tags in a way that describes the meaning of the content they contain, it's a good practice for accessibility and search engine optimization.
+---------------------------------------------
+CSS
+
+Introduction To CSS 3 Section
+What Is CSS?
+Inline CSS
+Internal CSS
+Classes And IDs
+Divs
+Colors
+Floating
+Positioning
+Margins
+Padding
+Borders
+Fonts
+Styling Text
+Aligning Text
+Styling Links
+Advanced Selectors
+Pseudo Classes
+Gradients
+Shadow Effect
+Transformations and Animations
+Flexbox
+CSS Reset
+Project: Portfolio Website
+Project: Portfolio Website Pt2
+Project: Portfolio Website Pt3
+External CSS
+BBC Project Notes
+CSS Project BBC News Website (1)
+CSS Project BBC News Website (2)
+CSS Project BBC News Website (3)
+CSS Project BBC News Website (4)
+CSS Project BBC News Website - Files
+Further Reading - CSS
+Reference 2 - CSS
+Further Reading - HTML 5 & CSS 3
+
+CSS, or Cascading Style Sheets, is a styling language used to create visually appealing and consistent designs on websites. It is used in conjunction with HTML, which provides the structure of the web page, and JavaScript, which provides interactive functionality.
+
+One of the key features of CSS is its ability to separate the presentation of a website from its content. This means that the design and layout of a website can be changed without affecting the underlying HTML code. This makes it easier to update and maintain the website, as well as to create multiple versions of the same website for different devices and screen sizes.
+
+One of the most powerful features of CSS is its ability to select and style specific HTML elements. This is done using selectors, which can target elements by their type, class, or ID. Selectors can also be combined to create more specific and complex rules. For example, a rule that targets all h2 elements within a specific class can be written as ".class h2".
+
+CSS also provides a wide range of properties that can be used to style HTML elements. These properties include things like font size and color, background color and image, spacing and padding, and many others. Properties can also be combined to create more complex and sophisticated designs.
+
+CSS also provides a number of layout and positioning tools, such as the box model, which is used to control the size and spacing of elements on a web page. The box model defines the space that an element takes up, including its padding, borders, and margins. This allows for precise control over the layout and spacing of elements on a web page.
+
+In addition to these core features, CSS also provides a number of advanced features such as animation, transitions, and responsive design. These features allow you to create interactive and engaging web pages that adapt to different devices and screen sizes.
+
+Overall, CSS is an essential tool for creating visually appealing and consistent designs on websites. It provides a wide range of features and tools that make it easy to create and maintain sophisticated and engaging web pages.
+---------------------------------------------
+Bootstrap
+
+Introduction to 'Bootstrap' Section
+What is Bootstrap?
+Your First Bootstrap Site
+The Grid System
+Introducing Navbars
+Forms & Tables
+Bootstrap Components
+Modals, Popovers & Tooltips
+ScrollSpy
+Project - Landing Page
+Further Reading - Bootstrap
+
+-------------------------------------------------------
+JavaScript 
+
+Introduction to JavaScript Section
+What is JavaScript
+Internal JavaScript
+Accessing Elements
+Reponding To A Click
+Changing Website Content
+Manipulating Styles With JavaScript
+Challenge - Disappearing Circles
+Variables
+Arrays
+If Statements
+Game - How Many Fingers Projects
+For Loops
+While Loops
+Functions
+Let And Const Variables
+Project: Reaction Tester
+External JavaScript
+Further Reading - Javascript
+Reference 3 - Javascript
+Javascript - Quiz
+
+JavaScript is a high-level, dynamic, and interpreted programming language. It is used to add interactivity and other dynamic elements to websites. 
+JavaScript is a programming language that is primarily used to create interactive and dynamic websites. It is the most widely-used programming language on the web and is supported by all major browsers.
+
+One of the key features of JavaScript is its ability to manipulate and update the content of a web page in real-time. This can be done using the Document Object Model (DOM), which is a programming interface for HTML and XML documents. The DOM allows JavaScript to access and update the content, layout, and styles of a web page. This makes it possible to create dynamic and interactive websites that can respond to user input and update in real-time.
+
+JavaScript also provides a wide range of built-in objects and functions that make it easy to perform common tasks such as manipulating strings and arrays, working with dates and times, and making network requests. JavaScript also has a large and active community that has created a wide range of third-party libraries and frameworks that can be used to perform more advanced tasks such as animation, data visualization, and building user interfaces.
+
+JavaScript is also commonly used to create web applications, which are websites that provide advanced functionality and a more app-like experience. Web applications are built using JavaScript frameworks and libraries such as React, Angular, and Vue.js. These frameworks provide a set of tools and patterns that make it easier to build large and complex web applications.
+
+Another important feature of JavaScript is its ability to run on both the client-side and the server-side. On the client-side, JavaScript is executed by the browser and can be used to create interactive and responsive user interfaces. On the server-side, JavaScript is executed by a runtime environment such as Node.js, which allows for the creation of server-side applications using JavaScript.
+
+Overall, JavaScript is a powerful and versatile programming language that is essential for creating dynamic and interactive websites and web applications. Its ability to manipulate the content of a web page in real-time, its built-in objects and functions, and its large and active community make it a popular choice for web developers.
+--------------------------------------------------------
+PHP
+
+Introduction to 'PHP' Section
+Introduction to PHP
+Hello World with PHP
+Variables
+Arrays
+If Statements
+For and For Each Loops
+While Loops
+GET Variables
+POST Variables
+Sending an Email With PHP
+Mini Project - A Contact Form
+Getting Contents of Other Scripts
+Project - Weather Scraper
+
+PHP, or Hypertext Preprocessor, is a server-side programming language that is commonly used to create dynamic and interactive websites. It is an open-source language, which means it is free to use and can be modified by developers to fit their specific needs.
+
+One of the key features of PHP is its ability to interact with databases such as MySQL and SQLite. This allows PHP to retrieve, store, and update information on the web server, which is then displayed to the user on the web page. This makes it possible to create dynamic websites that can display different content based on user input or other conditions.
+
+PHP also provides a wide range of built-in functions that make it easy to perform common tasks such as string manipulation, file handling, and working with dates and times. Additionally, there are a number of third-party libraries and frameworks that can be used to perform more advanced tasks such as sending email, working with images, and building user interfaces.
+
+PHP also plays a vital role in creating CMS (Content Management Systems) such as WordPress, Joomla, and Drupal. These are platforms that provide an easy way for users to create and manage the content of a website without the need for technical knowledge. PHP is used to manage and retrieve the data from the database, and to create the dynamic pages of the website.
+
+Another important feature of PHP is its ability to handle form data and cookies. PHP can receive, process and store the data sent by the user through forms, and can also save and retrieve data on the user's browser through cookies. This makes it possible to create interactive forms and personalize the user experience on a website.
+
+Overall, PHP is a versatile and powerful programming language that is widely used to create dynamic and interactive websites. Its ability to interact with databases, its built-in functions, and the availability of third-party libraries and frameworks make it a popular choice for web developers.
+------------------------------
+Python
+
+Introduction to 'Python' Section
+Why Learn Python?
+Hello World in Python
+Variables and Arrays
+Loops in Python
+If Statements in Python
+Functions in Python
+Classes and Objects in Python
+Requesting Data from External APIs
+Python Project - Wordule Game
+
+Python is a high-level programming language that is widely used for a variety of tasks such as web development, data analysis, artificial intelligence, and scientific computing. It is known for its simplicity and readability, making it a great language for beginners and experienced developers alike.
+
+One of the key features of Python is its versatility. Python is a general-purpose language and can be used for a wide range of tasks such as web scraping, data analysis, machine learning, and scientific computing. This makes it a popular choice for data scientists, researchers, and engineers.
+
+Python also provides a wide range of built-in libraries and modules that make it easy to perform common tasks. For example, the standard library includes modules for working with strings, files, and dates, as well as modules for connecting to web services and working with databases. Additionally, there are a number of third-party libraries and frameworks that can be used to perform more advanced tasks such as building web applications, working with data visualization, and natural language processing.
+
+Python is also widely used in the field of Artificial Intelligence and Machine Learning. Python's ease of use, readability, and a vast library support has made it one of the preferred languages for building Machine Learning models and Artificial Intelligence applications. Python libraries such as NumPy, Pandas, and Scikit-learn provide powerful tools for data analysis and modeling, while TensorFlow and PyTorch are popular libraries for building deep learning models.
+
+Python also has a strong and supportive community, making it easy to find solutions to problems and learn new skills. There are many resources available online, such as tutorials, documentation, and forums, which can help developers to learn and improve their Python skills.
+
+In conclusion, Python is a versatile, powerful, and easy-to-learn programming language that is widely used for a variety of tasks such as web development, data analysis, artificial intelligence, and scientific computing. Its built-in libraries and modules, third-party libraries and frameworks, and a strong and supportive community make it a great choice for both beginners and experienced developers.
+
+---------------------------
+MySQL
+
+Introduction to 'MySQL' Section
+Introduction to MySQL
+Connecting to a Database
+Retrieving Data From a Database
+Inserting and Updating Data
+Looping Through Data
+Session Variables
+Cookies
+Storing Passwords Securely
+Preview
+Project - Secret Diary (Part 2)
+
+
+MySQL is a popular, open-source relational database management system (RDBMS) that is widely used for storing and managing data in web applications and other software systems. It is known for its speed, reliability, and ease of use, making it a popular choice for both small and large-scale projects.
+
+One of the key features of MySQL is its support for SQL (Structured Query Language), which is the standard language for interacting with relational databases. SQL allows developers to create, read, update, and delete data in the database using simple and easy-to-learn commands. This makes it easy for developers to work with MySQL, even if they are not familiar with the underlying database structure.
+
+MySQL also provides a wide range of advanced features such as support for transactions, stored procedures, and triggers, which can be used to create more complex and sophisticated data models. Additionally, it has support for multiple storage engines, which makes it flexible and allows you to choose the best engine that suits your needs.
+
+MySQL also has a strong security model, which provides a range of features such as encryption, password management, and access control. This makes it possible to secure data stored in the database, and restrict access to specific users or groups.
+
+MySQL also has a large and active community, which provides a wide range of resources and support for developers. There are many tutorials, documentation, and forums available online, which can help developers to learn and improve their skills. Additionally, there are many third-party tools and utilities that can be used to manage and optimize MySQL databases, making it easier for developers to maintain and troubleshoot their databases.
+
+In conclusion, MySQL is a powerful, reliable and easy-to-use relational database management system that is widely used for storing and managing data in web applications and other software systems. Its support for SQL, advanced features, strong security model, and large and active community make it a popular choice for developers and organizations of all sizes.
+-----------------------
+
+Node.js is an open-source, cross-platform JavaScript runtime environment that allows developers to run JavaScript on the server-side. It is built on top of the V8 JavaScript engine, which is the same engine used in Google Chrome. Node.js allows developers to use JavaScript to write server-side code, making it possible to build full-stack JavaScript applications.
+
+One of the key features of Node.js is its ability to handle a large number of concurrent connections. Node.js uses an event-driven, non-blocking I/O model, which makes it well-suited for building high-performance, real-time applications such as chat apps and online games.
+
+Node.js also provides a large and active package ecosystem, called npm, that allows developers to easily install and use third-party libraries and modules. This makes it easy for developers to add new functionality to their applications, such as connecting to a database or sending email.
+
+Node.js is also popular for building scalable network applications, as its event-driven, non-blocking I/O model allows it to handle a large number of concurrent connections. This makes it ideal for building real-time web applications, API's and microservices.
+
+Another important feature of Node.js is its use of JavaScript as both front-end and back-end language, which allows for a more seamless development experience. This allows developers to use the same language and patterns across both the client and server-side, making it easier to build and maintain full-stack JavaScript applications.
+
+Node.js also has a large and active community, which provides a wide range of resources and support for developers. There are many tutorials, documentation, and forums available online, which can help developers to learn and improve their skills. Additionally, there are many third-party tools and utilities that can be used to manage and optimize Node.js applications, making it easier for developers to maintain and troubleshoot their applications.
+
+In conclusion, Node.js is an open-source, cross-platform JavaScript runtime environment that allows developers to run JavaScript on the server-side. Its ability to handle a large number of concurrent connections, its large and active package ecosystem, and its use of JavaScript as both front-end and back-end language, make it a popular choice for building high-performance, real-time and scalable web applications, APIs and microservices. Its large and active community also provides a wide range of resources and support for developers.
+
+-------------------
+
+WordPress is a popular, open-source content management system (CMS) that is widely used for building and managing websites. It is written in PHP and uses a MySQL database to store and retrieve data. WordPress is known for its ease of use, flexibility, and large community, making it a popular choice for both small and large-scale projects.
+
+One of the key features of WordPress is its user-friendly interface, which makes it easy for users to create and manage their own websites. WordPress provides a simple, intuitive interface for creating and editing pages and posts, as well as managing media and other content. This makes it easy for users to create and update their own websites, even if they have little or no technical knowledge.
+
+WordPress also provides a wide range of customization options, thanks to its large library of themes and plugins. These are pre-made templates and add-ons that can be used to change the look and functionality of a website. This allows users to easily customize the design and functionality of their website, without the need for complex coding.
+
+Another important feature of WordPress is its SEO-friendly structure, this allows the website to be easily indexed by search engines, making it easier for users to find it. WordPress also provides a range of SEO-related features, such as the ability to create custom permalinks and meta descriptions, which can help to improve the visibility of a website in search engine results.
+
+WordPress also has a large and active community, which provides a wide range of resources and support for users. There are many tutorials, documentation, and forums available online, which can help users to learn and improve their skills. Additionally, there are many third-party tools and services that can be used to manage and optimize WordPress websites, making it easier for users to maintain and troubleshoot their websites.
+
+In conclusion, WordPress is a popular, open-source content management system that is widely used for building and managing websites. Its user-friendly interface, customization options, SEO-friendly structure and large community make it an easy to use, flexible and popular choice for building and managing websites of all types and sizes.
+--------------------------
+
+jQuery is a fast, small, and feature-rich JavaScript library that makes it easy to add dynamic functionality to web pages. It is known for its simplicity, ease of use, and wide browser support, making it a popular choice for web developers.
+
+One of the key features of jQuery is its ability to simplify the process of manipulating the Document Object Model (DOM) of a web page. The DOM is the structure of a web page, and jQuery provides a simple and easy-to-use API for selecting, manipulating, and traversing DOM elements. This makes it easy for developers to add dynamic functionality to their web pages, such as animations, form validation, and dynamic content updates.
+
+jQuery also provides a wide range of built-in functions and methods that make it easy to perform common tasks such as handling events, making AJAX requests, and working with arrays and objects. Additionally, there are a number of third-party plugins and extensions available that can be used to add even more functionality to web pages.
+
+jQuery also provides cross-browser compatibility, which means it can run on all major web browsers, including Internet Explorer, Chrome, Firefox, Safari, and Edge. This eliminates the need for developers to write different code for different browsers, making it easier to create websites that work consistently across different platforms.
+
+jQuery also has a large and active community, which provides a wide range of resources and support for developers. There are many tutorials, documentation, and forums available online, which can help developers to learn and improve their skills. Additionally, there are many third-party tools and utilities that can be used to manage and optimize jQuery code, making it easier for developers to maintain and troubleshoot their websites.
+
+In conclusion, jQuery is a fast, small, and feature-rich JavaScript library that makes it easy to add dynamic functionality to web pages. Its ability to simplify the process of manipulating the DOM, its built-in functions and methods, cross-browser compatibility and large community make it a popular choice for web developers.
+------------------------
+
+React is a popular, open-source JavaScript library for building user interfaces. It is developed and maintained by Facebook and is used by many organizations and companies for building complex and dynamic web applications. React is known for its flexibility, performance, and reusable components, making it a popular choice for developers.
+
+One of the key features of React is its component-based approach to building user interfaces. React components are small, reusable pieces of code that can be combined to build complex user interfaces. These components are self-contained and manage their own state, which makes it easy to build and maintain large and complex web applications.
+
+React also provides a virtual DOM (Document Object Model) which allows for efficient updates and rendering of components. The virtual DOM is a lightweight representation of the actual DOM and it allows React to update only the components that have changed, rather than re-rendering the entire page. This improves the performance of React applications and allows them to handle large amounts of data and user interactions.
+
+React also provides a powerful and flexible set of tools for handling the state and behavior of components, such as the useState and useEffect hooks. These hooks allow developers to manage the state and behavior of components in a declarative and efficient way, making it easier to build and maintain complex web applications.
+
+React also has a large and active community, which provides a wide range of resources and support for developers. There are many tutorials, documentation, and forums available online, which can help developers to learn and improve their skills. Additionally, there are many third-party libraries and tools that can be used to enhance React applications, such as libraries for managing state, routing, and styling.
+
+In conclusion, React is a popular, open-source JavaScript library for building user interfaces. Its component-based approach, virtual DOM, powerful tools for handling state and behavior, and a large and active community make it a popular choice for building complex and dynamic web applications. Its flexibility, performance and reusable components make it a powerful tool for developers.
+
+
+
